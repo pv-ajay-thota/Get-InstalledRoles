@@ -1,2 +1,3 @@
 # Get-InstalledRoles
-get Installed roles in a server
+get Installed roles in a Computer
+
